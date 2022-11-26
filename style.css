@@ -103,7 +103,7 @@ color: #fff'
 
 /* The hero image */
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/closeeys.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("closeeys.jpg");
   height: 66%;
   width:100%;
   background-position: center;
