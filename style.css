@@ -28,7 +28,7 @@ span{
   font-size: 50px;
 }
 span:hover{
-  color: #fff;
+  color: white;
   transition: 0.5s;
 }
 .container {
