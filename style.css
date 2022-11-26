@@ -153,7 +153,7 @@ button{
     outline:none;
     position:relative;
     transition:border-radius 3s;
-    -webkit-transition:border-radius 3s;
+   
 }
 
 button hover{
