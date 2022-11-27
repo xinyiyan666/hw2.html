@@ -191,6 +191,8 @@ footer {
 	align-items: center;
 	line-height: 20px;
     background-color: aliceblue;
+	grid-row-start:2;
+	grid-row-end:3;
 }
 
 
